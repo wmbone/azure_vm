@@ -1,0 +1,7 @@
+resource_group_name = "dev"
+location = "australiasoutheast"
+client_certificate_path = /home/bone/code/Azure/conf/cert/service-principal.pfx
+client_certificate_password = cscopr
+subscription_id = 34af9355-70d9-435f-bd20-2f83e24b42c2
+client_id = 01b62c2b-3a33-45ad-8a83-1b0067837350
+tenant_id = f44996a5-3b33-4c88-99de-ccd65cf2fc75
